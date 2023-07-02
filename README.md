@@ -1,6 +1,6 @@
 
 # Val U Swap
-<img align="right" src="https://github.com/lley154/valuswap/images/val-u-swap.png">
+<img align="right" src="https://github.com/lley154/valuswap/blob/main/images/val-u-swap.png">               
 Val U Swap is a decentralized, open source, self custody marketplace for buying and selling tokenized assets on the Cardano blockchain. The concept video below demonstrates the buyer and seller experience with a focus on ease of use for non-crypto natives. The marketplace will use the Atomic Swap Open Protocol for the smart contract trade execution and settlement.
 
 
